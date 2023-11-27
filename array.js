@@ -9,4 +9,4 @@ for(let i=0;i<=odd.length-1;i++){
          a.push(odd[i])
     }
 }
-document.write(a+"<br>")
+document.write(a.length+"<br>")
